@@ -135,15 +135,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Kunal's GitHub Stats"/>
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Kunal's Top Languages"/>
-</p>
-
----
-
 ## 💡 Quote
 
 > "Turn data into insights, and insights into better decisions."
