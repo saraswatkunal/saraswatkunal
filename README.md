@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-excel.svg" width="50" height="50" alt="Microsoft Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-excel/default.svg" width="50" height="50" alt="Microsoft Excel"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/>
 </p>
 
@@ -138,8 +138,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saraswatkunal&theme=tokyonight" height="180" alt="Kunal's GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saraswatkunal&theme=tokyonight" height="180" alt="Kunal's Top Languages"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Kunal's GitHub Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Kunal's Top Languages"/>
 </p>
 
 ---
