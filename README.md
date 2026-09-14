@@ -73,8 +73,8 @@ An analytics project focused on e-commerce sales and profitability across produc
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/kunal-saraswat)
-- 📧 Email: [Email](saraswatkunal03@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kunal-saraswat/)
+- 📧 Email: [Email](mailto:saraswatkunal03@gmail.com)
 
 ---
 
