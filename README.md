@@ -1,14 +1,12 @@
-# Hi 👋, I'm Kunal Saraswat
+Hi 👋, I'm Kunal Saraswat
 
-### Data Analyst | Python | SQL | Power BI
+Data Analyst | Python | SQL | Power BI
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saraswatkunal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p>---
 
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student (2023–2027)
 - 📊 Interested in Data Analytics, Business Intelligence, and data-driven insights
@@ -21,67 +19,58 @@
 
 ---
 
-## 🚀 Current Focus
+🚀 Current Focus
 
 - Python for Data Analysis
 - SQL & MySQL
 - Power BI & DAX
 - Excel & Data Preparation
 - Data Cleaning & Transformation
+- Business Intelligence & Dashboard Development
+- Building practical Data Analytics projects
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kunal-saraswat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Saraswat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-📧 **Email:** [saraswatkunal03@gmail.com](mailto:saraswatkunal03@gmail.com)
+</p>📧 Email: "saraswatkunal03@gmail.com" (mailto:saraswatkunal03@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-### 📊 Data Analytics
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
-</p>
-
-### 🗄️ Databases & Querying
+📊 Data Analytics
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="SQL"/>
-</p>
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="48" height="48" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" alt="C++"/>
-</p>
-
-### 🛠️ Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.30.0/icons/microsoftexcel.svg" width="50" height="50" alt="Microsoft Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@16.30.0/icons/powerbi.svg" width="50" height="50" alt="Power BI"/>
+</p>🗄️ Databases & Querying
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="VS Code"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</p>💻 Programming
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+</p>🛠️ Tools
 
-## 🔥 Featured Projects
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
+</p>---
 
-### 🤖 AI Adoption & User Behavior Analytics
+🔥 Featured Projects
+
+🤖 AI Adoption & User Behavior Analytics
 
 - 📊 Analyzed AI assistant adoption, usage patterns, satisfaction, and user behavior
 - 🐍 Cleaned and transformed data using Excel, Pandas & NumPy
@@ -91,7 +80,7 @@
 - 📋 Built a two-page interactive dashboard — Overview & Behavior
 - 🎯 Analyzed AI tools, countries, demographics, subscriptions, usage, satisfaction, accuracy, and recommendation behavior
 
-### 🛒 E-Commerce Sales & Profit Analytics
+🛒 E-Commerce Sales & Profit Analytics
 
 - 📊 Analyzed sales, profit, orders, products, categories, cities, and monthly performance
 - 🐍 Cleaned and standardized data using Excel, Pandas & NumPy
@@ -103,35 +92,25 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+🏆 Achievements & Certifications
 
 - 📊 Built end-to-end Data Analytics projects using Python, SQL, MySQL, Excel & Power BI
-- 📜 Data Visualization — Tata | (Forage)
+- 📜 Data Visualization — Tata | Forage
 - 📜 Power BI — Microsoft through Simplilearn SkillUp
 
 ---
 
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saraswatkunal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatkunal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=saraswatkunal&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Kunal's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatkunal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Kunal's Top Languages"/>
+</p>---
+
+💡 Quote
+
+«"Turn data into insights, and insights into better decisions."»
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saraswatkunal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 💡 Quote
-
-> "Turn data into insights, and insights into better decisions."
-
----
-
-### Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 🚀
